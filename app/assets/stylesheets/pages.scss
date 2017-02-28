@@ -1,0 +1,143 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in applicationcss.
+// You can use Sass (SCSS) here: http://sass-langcom/
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+nav{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background: #F5DF11;
+	opacity: none;
+	z-index: 5;
+	font-weight: bold;
+	
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	float: right;
+	display: block;
+	padding: 20px;
+}
+
+ul li a{
+    font-size: 25px;
+    font-family: Gill Sans;
+    text-decoration: none;
+    outline: 0;
+    opacity: none;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+ul li a:hover{
+	color: #BD0E1A;
+	text-decoration: none;
+}
+ul li a:focus{
+	text-decoration: none;
+	color: #BD0E1A;
+}
+
+.primera {
+    min-height: 69vh;
+    background: transparent;
+    padding-top: 130px;
+}
+
+/* Imagen Bandera Frescura dia a dia*/
+.bandera{
+    width: 500px;
+    height: 150px;
+
+}
+
+/* Separador blanco */
+.seprador{
+	min-height: 20vh;
+	background: #FFFFFF;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 32px;
+	color: #27348B;
+	font-weight: bold;
+}
+
+/* Img lineas de colores*/
+.seprador img{
+	width: 100%;
+	height: 29%;
+	margin:20px auto;
+	top: 57%;
+	left: 0;
+	position: absolute;
+	z-index: 1;   	
+}
+
+/* Separador azul */
+.seprador2{
+	min-height: 13vh;
+	background: #27348B;
+	text-align: center;
+	padding-top: 0;
+	font-size: 32px;
+	color: #FFFFFF;
+}
+
+.segunda {
+    min-height: 100vh;
+    background: transparent;
+}
+
+.tercera{
+    min-height: 100vh;
+    background: transparent;
+
+}
+
+.flex{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+	height: 45vh;
+
+}
+
+/* Logotipo pollos Lobo */
+.logo {
+	z-index: 10;
+    position: fixed;
+    top: 0px;
+    left: 60px;
+    border: none;
+    opacity: none;
+    height: 205px;
+}
+
+/* Iconos */
+.fa-map-marker {
+    color:#BD0E1A;
+}
+.fa-phone {
+    color:#BD0E1A;
+}
+.fa-envelope{
+	color:#BD0E1A;
+}
+
+
+
+
+
+
