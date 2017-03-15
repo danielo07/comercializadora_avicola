@@ -13,7 +13,7 @@ nav{
 	position: fixed;
 	top: 0px;
 	left: 0px;
-	background: #F5DF11;
+	background: #2F4DB1;
 	opacity: none;
 	z-index: 5;
 	font-weight: bold;
@@ -42,11 +42,12 @@ ul li a{
 }
 
 ul li a:hover{
-	color: #BD0E1A;
+	color: #FFF200;
 	text-decoration: none;
 }
 
 ul li a:focus{
+	color: #FFFFFF;
 	text-decoration: none;
 }
 
@@ -104,7 +105,7 @@ ul li a:focus{
     text-align: center;
     padding-top: 120px;
     font-size: 25px;
-    color: #27348B;
+    color: #2F4DB1;
     font-weight: bold;
 }
 
@@ -124,11 +125,23 @@ ul li a:focus{
 .cuarta {
     min-height: 70vh;
     background: transparent;
+    font-size: 10px;
+    font-family: myriad pro;
+	font-weight: bold;
+    color: #2F4DB1;
 }
 
-.separador-rojo{
+.estilo_h1{
+	font-weight: bold;
+}
+
+.estilo_h2{
+	font-weight: bold;
+}
+
+.separador-azul{
 	min-height: 30vh;
-	background: #BD0E1A;
+	background: #2F4DB1;
 	padding-top: 0;
 }
 
