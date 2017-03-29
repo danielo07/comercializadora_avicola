@@ -53,7 +53,7 @@ ul li a:focus{
 
 .primera {
     min-height: 98vh;
-    background: transparent;
+
     padding-top: 130px;
 }
 
@@ -84,15 +84,15 @@ ul li a:focus{
 
 /* Seccion de Servicios fondo completo*/
 .sepradorimg{
-	min-height: 160vh;
+	min-height: 150vh;
 	background: transparent;
 	text-align: center;   	
 }
 
 /* Separador rojo */
 .seprador2{
-	min-height: 2vh;
-	background: #BD0E1A;
+	min-height: 1vh;
+	background: #FA2F39;
 	text-align: center;
 	padding-top: 0;
 	font-size: 32px;
@@ -107,12 +107,13 @@ ul li a:focus{
     font-size: 25px;
     color: #2F4DB1;
     font-weight: bold;
+
 }
 
 /* Imagen de fondo de Servicios*/
 .tercera{
-    min-height: 20vh;
-    background-image: url(/img/servicios-06.svg); 
+    height: 50vh;
+    background-image: url(/img/pollo1280x680.jpg); 
 
 }
 
@@ -151,7 +152,7 @@ ul li a:focus{
 	flex-wrap: wrap;
 	justify-content: center;
 	width: 100%;
-	height: 60vh;
+	height: 100vh;
 }
 
 .flex2{
@@ -174,6 +175,22 @@ ul li a:focus{
     height: 190px;
 }
 
+.recuadro{
+	background-color:rgba(255,255,255,0.5);
+}
+
+.contenido{
+	color: #2F4DB1;
+	text-align: center;
+	padding: 10px 100px;
+
+}
+
+.titulos{
+	color: #BD0E1A;
+	font-weight: bold;
+}
+
 /* Iconos */
 .fa-map-marker {
     color:#BD0E1A;
@@ -185,7 +202,19 @@ ul li a:focus{
 	color:#BD0E1A;
 }
 
+.mapa {
+	padding-top: 45px;
+}
 
+/* Footer */
+.sepradorbottom{
+	min-height: 10vh;
+	background: #2F4DB1;
+	text-align: center;
+	padding-top: 0;
+	font-size: 32px;
+	color: #FFFFFF;
+}
 
 
 
