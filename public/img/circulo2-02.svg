@@ -3,7 +3,16 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
-<image overflow="visible" width="1280" height="680" xlink:href="data:image/jpeg;base64,/9j/4RHDRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAA
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="200" cy="200" r="200"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		
+			<image overflow="visible" width="1280" height="680" xlink:href="data:image/jpeg;base64,/9j/4RHDRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAA
 agEoAAMAAAABAAIAAAExAAIAAAAmAAAAcgEyAAIAAAAUAAAAmIdpAAQAAAABAAAArAAAANgACvyA
 AAAnEAAK/IAAACcQQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoTWFjaW50b3NoKQAyMDE3OjAz
 OjI5IDE5OjQ0OjE4AAADoAEAAwAAAAH//wAAoAIABAAAAAEAAAUAoAMABAAAAAEAAAKoAAAAAAAA
@@ -12697,15 +12706,8 @@ Z/LAwZPtmEgkdFswlEpYhwjA3UX4sfaZTIrgLXTT0z9v7Or40nHd69R5mRI3EMkfkOvTplRRwvrk
 DS6tZTTaPgA/6x9vglgDp6bpxzn/AFcesAPl8S+hnKiUlCHmZioDkpEzJdQObAC49ucKnrQBIAHU
 GueNLQtNHD52gCGWdYX1SHTeIFSNcyn9J5P49+WpBPGg68Kivy6mSyrG5BYRhF8RTUHMmlQqlg3r
 iI/F+D78AGXgetEcD5/Z1GeoUaNUxBX9DKup1twq3DcE/j3fTQU68aYPXA1MSuNfnqCrCRI6eGVA
-rEH9TRsAxN7kEn/W9+019OtE18s9f//Z" transform="matrix(0.6123 0 0 0.6123 -279.3547 -13.868)">
-</image>
-<g>
-	<defs>
-		<circle id="SVGID_1_" cx="200" cy="200" r="200"/>
-	</defs>
-	<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FFFFFF"/>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
+rEH9TRsAxN7kEn/W9+019OtE18s9f//Z" transform="matrix(0.6123 0 0 0.6123 -265.6863 -8.173)">
+		</image>
+	</g>
 </g>
 </svg>
